@@ -1,8 +1,8 @@
-#Flight: an event-driven web application framework
+#Flight: 이벤트 주도 웹 어플리케이션 프레임워크
 
-[![Build Status](https://travis-ci.org/twitter/flight.png?branch=master)](http://travis-ci.org/twitter/flight)
+[![Build Status](https://travis-ci.org/witter/flight.png?branch=master)](http://travis-ci.org/twitter/flight)
 
-Flight is a lightweight, component-based JavaScript framework that maps behavior to DOM
+Flight 는 경량, 컴포넌트 기반 자바스크립트 프레임워크component-based JavaScript framework that maps behavior to DOM
 nodes. Twitter uses it for their web applications.
 
 Components cannot be directly referenced, instead they communicate by triggering and subscribing to events.
